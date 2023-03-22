@@ -7,3 +7,7 @@ Starer we project introuction
 ## Purpose
 
 ## How To Contribute
+
+### Copyright
+
+2014 git training
