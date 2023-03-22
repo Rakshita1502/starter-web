@@ -8,6 +8,8 @@ Starer we project introuction
 
 ## How To Contribute
 
+Please fork this repository and then issue Push
+
 ### Copyright
 
 2014 git training
